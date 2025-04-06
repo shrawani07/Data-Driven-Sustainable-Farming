@@ -77,7 +77,7 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ### 📌 Contributors
-- **AbhishekKuntare** - [GitHub](https://github.com/Abhishekkuntare)
+- **ShrawaniGongshe** - [GitHub](https://github.com/shrawani07)
 
 ### 📜 License
 This project is licensed under the MIT License.
