@@ -1,0 +1,107 @@
+{
+  "title": "AI Sustainable Farming",
+  "uploadFarmer": "Upload Farmer Data",
+  "uploadMarket": "Upload Market Data",
+  "aiAdvice": "AI Advice",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+
+  "home": {
+    "heroTitle1": "Revolutionizing Agriculture with",
+    "heroTitle2": "AI & Sustainability",
+    "heroDesc": "Harness the power of artificial intelligence to optimize crop yields, reduce resource wastage, and promote sustainable farming practices. Get real-time insights and smart recommendations tailored for modern agriculture.",
+    "getStarted": "Get Started",
+    "features": {
+      "sustainableFarming": "Sustainable Farming",
+      "smartAutomation": "Smart Automation",
+      "higherYields": "Higher Crop Yields",
+      "desc1": "Use AI-powered insights to optimize resource use and promote eco-friendly farming.",
+      "desc2": "Automate farming tasks with AI recommendations for better productivity.",
+      "desc3": "Boost yields with AI-driven soil analysis, weather predictions, and smart crop planning."
+    },
+    "howItWorks": "How It Works",
+    "step1": "1. Input Data",
+    "step2": "2. AI Analysis",
+    "step3": "3. Get Recommendations",
+    "step1desc": "Provide details about soil, weather, and crops.",
+    "step2desc": "Our AI processes data to generate insights.",
+    "step3desc": "Receive smart suggestions for better farming.",
+    "footer": {
+      "rights": "© 2025 AI Farming Solutions. All rights reserved.",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "form": {
+    "title": "Upload Farmer Data",
+    "submit": "Submit",
+    "errorTitle": "Error",
+    "errorDesc": "Please fill all fields before submitting.",
+    "successTitle": "Success",
+    "successDesc": "Farmer data uploaded successfully.",
+    "fields": {
+      "Soil_pH": "Soil pH",
+      "Soil_Moisture": "Soil Moisture",
+      "Temperature_C": "Temperature (°C)",
+      "Rainfall_mm": "Rainfall (mm)",
+      "Crop_Type": "Crop Type",
+      "Fertilizer_Usage_kg": "Fertilizer Usage (kg)",
+      "Pesticide_Usage_kg": "Pesticide Usage (kg)",
+      "Crop_Yield_ton": "Crop Yield (ton)",
+      "Sustainability_Score": "Sustainability Score"
+    }
+  },
+  "market": {
+    "title": "Upload Market Data",
+    "submit": "Submit",
+    "toast": {
+      "errorTitle": "Error",
+      "errorDesc": "Please fill all fields before submitting.",
+      "successTitle": "Success",
+      "successDesc": "Market data uploaded successfully."
+    },
+    "fields": {
+      "Product": "Product",
+      "Market_Price_per_ton": "Market Price per Ton",
+      "Demand_Index": "Demand Index",
+      "Supply_Index": "Supply Index",
+      "Competitor_Price_per_ton": "Competitor Price per Ton",
+      "Economic_Indicator": "Economic Indicator",
+      "Weather_Impact_Score": "Weather Impact Score",
+      "Seasonal_Factor": "Seasonal Factor",
+      "Consumer_Trend_Index": "Consumer Trend Index"
+    }
+  },
+  "about": {
+    "title": "About AI Sustainable Farming",
+    "description": "AI Sustainable Farming is an innovative platform dedicated to empowering farmers with AI-driven insights to optimize agricultural practices, increase yield, and promote sustainability. Our mission is to bridge the gap between technology and agriculture, ensuring a greener future.",
+    "point1": "🚀 AI-powered predictions for better crop management.",
+    "point2": "🌱 Sustainable farming techniques for long-term productivity.",
+    "point3": "📈 Data-driven insights for smart decision-making.",
+    "backToHome": "Back to Home"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have any questions? Feel free to reach out via email or by using the form below.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send Message",
+    "emailText": "Or email us at:",
+    "errorTitle": "Error",
+    "errorDesc": "All fields are required.",
+    "successTitle": "Success",
+    "successDesc": "Your message has been sent!"
+  },
+  "ai": {
+    "farmersData": "Farmers' Data",
+    "uploadFarmData": "Please upload farm data first.",
+    "soilPh": "Soil pH",
+    "getAdvice": "Get Advice",
+    "aiAdviceForFarm": "AI Advice for Farm ID: {{farmId}}",
+    "recommendations": "Recommendations",
+    "watchRelatedVideos": "Watch Related Videos",
+    "usefulLinks": "Useful Links",
+    "relatedImages": "Related Images"
+  }
+}
